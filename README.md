@@ -1,3 +1,9 @@
+### ABOUT THE PROJECT
+
+This project was an assigment done for our Starlabs intership course. This project is the work of our group, that consist of 10 people, 5 responsible for backend and 5 resposible for the frontend.
+I was part of the frontend team.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
